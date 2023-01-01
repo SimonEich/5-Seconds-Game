@@ -8,7 +8,7 @@ h1 {
 }
 
 body {
-  background-color: #e6e6e6 !important;
+  background-color: #66ffff !important;
 }
 
 #divv{
@@ -17,8 +17,15 @@ body {
 
 .btn {
   font-size: 20px;
+  margin: 40px;
+  margin-bottom: 20px;
+  border-width: 5px;
 }
 
 div{
   padding: 15px 32px;
+}
+
+button{
+  margin: 30px;
 }
