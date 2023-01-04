@@ -199,6 +199,7 @@ function show (){
     z.style.display = "none";
     var z = document.getElementById("evaluation");
     z.style.display = "block";
+    console.log(times);
     console.log(state);
     break;
 
